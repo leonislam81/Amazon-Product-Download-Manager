@@ -1,1 +1,1 @@
-# Amazon-Product-Download-Manager
+# Amazon Product Download Manager
