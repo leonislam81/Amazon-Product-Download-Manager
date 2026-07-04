@@ -1,1 +1,18 @@
 {}
+{
+    "app_name": "Amazon Product Download Manager",
+    "version": "1.0.0",
+    "download_folder": "downloads",
+    "temp_folder": "temp",
+    "log_folder": "logs",
+    "chrome_profile": "",
+    "headless": false,
+    "download_delay": 2,
+    "retry_count": 3,
+    "zip_images": true,
+    "theme": "dark",
+    "window": {
+        "width": 1200,
+        "height": 800
+    }
+}
